@@ -1,7 +1,7 @@
 # install
 
 
-## install numpy macOS Apple Silicone M1
+## install numpy in macOS Apple Silicone M1
 
 1. install and activate environment
 ```shell
