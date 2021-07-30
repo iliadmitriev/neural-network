@@ -1,7 +1,7 @@
 # install
 
 
-## install numpy in macOS Big Sur (Apple Silicone M1)
+## install numpy in macOS Big Sur (Apple Silicone M1, not relevant for version >= 1.21.0)
 
 1. install and activate environment
 ```shell
